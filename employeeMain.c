@@ -57,7 +57,7 @@ int main(void){
     if(matchPtr != NULL)
         printf("Employee Salary $2.15 is in record %ld\n", matchPtr - EmployeeTable);
     else
-        printf("Employee Salary $2.15 is NOT found in the record\n");
+        printf("Employee Salary $2.15 is NOT found in the record\n"); 
     
 
 
